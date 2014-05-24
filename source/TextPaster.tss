@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\dave\devel\TextPaster\TextPaster.rc</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\dave\devel\TextPaster\TextPasterDlg.cpp</string>
+      <string>C:\Users\dave\devel\TextPaster\TextPasterDlg.h</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
